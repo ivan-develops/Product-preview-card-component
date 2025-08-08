@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
+- Solution URL: [https://github.com/ivan-develops/Product-preview-card-component](https://github.com/ivan-develops/Product-preview-card-component)
 - Live Site URL: [https://ivan-develops.github.io/Product-preview-card-component/](https://ivan-develops.github.io/Product-preview-card-component/)
 
 ## My process
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-desarrollar el flujo de trabajo a partir de mobile-first y usar `min-width` para media queries.
+Develop the workflow from a mobile-first perspective and use `min-width` for media queries.
 
 ## Author
 

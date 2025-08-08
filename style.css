@@ -31,7 +31,8 @@ body {
     align-items: center;
 }
 .card {
-    margin: 2em 1em;
+    /* margin: 2em 1em; */
+    margin: clamp(1em, 2vw, 2em) clamp(0.5em, 1vw, 1em);
     display: grid;
     background: var(--White);
     border-radius: 0.5em;
@@ -63,10 +64,12 @@ body {
         .name-product {
             font-family: Fraunces, sans-serif;
             font-size: 2em;
+            line-height: 1;
         }
         .description {
             font-size: 0.875em; /*14px*/
             color: var(--Grey);
+            line-height: 1.5;
         }
         .price {
             display: flex;
@@ -82,10 +85,10 @@ body {
             .normal-price {
                 text-decoration: line-through;
                 color: var(--Grey);
+                font-size: 0.8em;
             }
         }
         .btn {
-            align-self: auto;
             background: var(--Green-500);
             color: var(--White);
             padding: 1em;
