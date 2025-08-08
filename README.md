@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://your-solution-url.com](https://your-solution-url.com)
 - Live Site URL: [https://ivan-develops.github.io/Product-preview-card-component/](https://ivan-develops.github.io/Product-preview-card-component/)
 
 ## My process
